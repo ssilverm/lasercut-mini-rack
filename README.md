@@ -9,6 +9,7 @@ Laser Cut Mini Rack - 10" Rack
 ### Required
 * 3mm / 1/8" Material (Plywood, Acrylic)
 * Rack Rails - https://www.amazon.com/gp/product/B072B9H3FC - Gator Rackworks Heavy Duty Steel Rack Rail Set; 6U Rack Size (GRW-RACKRAIL-06U)
+   * Lower cost alternative: https://www.amazon.com/gp/product/B08RYR49RZ
 * Nuts & Bolts
     * 4x M5 x 16mm - Rack Rails
     * 8x M2.5 x 10mm - Rack Enclosure
